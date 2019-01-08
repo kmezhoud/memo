@@ -1,8 +1,4 @@
----
-description: This first page is used to set up sync with github and bibtex
----
-
-# First Page
+# README
 
 Here in the content
 
